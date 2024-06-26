@@ -1,0 +1,2 @@
+<!--pages/test/test.wxml-->
+<button type="primary" plain bindtap="handle" >测试请求按钮</button>
